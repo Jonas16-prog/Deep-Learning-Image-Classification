@@ -247,7 +247,7 @@ Potential extensions include:
 
 Komi Jonas Amehunke
 
-Bachelor in Mathematics, Computer Science and Numerical Science
+Student in Mathematics, Computer Science and Numerical Science
 University of Geneva
 
 ---
